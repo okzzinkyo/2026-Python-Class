@@ -16,3 +16,7 @@
 2. 필요한 라이브러리 설치:
     ```bash
     pip install -r requirements.txt
+
+3. 라이브러리 목록 업데이트:
+    ```bash
+    pip freeze > requirements.txt
