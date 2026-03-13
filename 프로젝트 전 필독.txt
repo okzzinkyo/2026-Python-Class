@@ -1,2 +1,0 @@
-.venv 가상 환경 실행해주기
-source .venv/bin/activate
